@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do curso "React Completo" oferecido pel
 
 ## Descrição
 
-A aplicação tem como objetivo proporcionar uma experiência de rede social em torno do mundo dos nossos queridos pets. Utilizando tecnologias modernas como React e Vite boas práticas de desenvolvimento, além de utilizar de conceitos consistentes de UI e UX para garantir a usabilidade e experiência do usuário.
+A aplicação tem como objetivo proporcionar uma experiência de rede social em torno do mundo dos nossos queridos pets. Utilizando tecnologias modernas como React e Vite e boas práticas de desenvolvimento, além de utilizar de conceitos consistentes de UI e UX para garantir a usabilidade e experiência do usuário.
 
 ## Funcionalidades Principais
 

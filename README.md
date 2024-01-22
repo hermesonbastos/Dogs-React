@@ -1,10 +1,10 @@
 # Dogs React App
 
-Este projeto, denominado "dogs_react_origamid," foi desenvolvido como parte do curso "React Completo" oferecido pela plataforma ORIGAMID. A aplicação utiliza React para criar uma experiência interativa relacionada a cães.
+Este projeto foi desenvolvido como parte do curso "React Completo" oferecido pela plataforma ORIGAMID. A aplicação utiliza React para criar uma experiência interativa de rede social para os nossos amigos de quatro patas.
 
 ## Descrição
 
-A aplicação tem como objetivo proporcionar uma experiência de rede social em torno do mundo dos nossos queridos pets. Utilizando tecnologias modernas como Reacte Vite, o projeto demonstra boas práticas de desenvolvimento front-end.
+A aplicação tem como objetivo proporcionar uma experiência de rede social em torno do mundo dos nossos queridos pets. Utilizando tecnologias modernas como Reacte e Vite boas práticas de desenvolvimento, além de utilizar de conceitos consistentes de UI e UX para garantir a usabilidade e experiência do usuário.
 
 ## Funcionalidades Principais
 

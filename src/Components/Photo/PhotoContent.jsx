@@ -5,7 +5,7 @@ import PhotoComments from "./PhotoComments";
 
 const PhotoContent = ({ data }) => {
   const { photo, comments } = data;
-  console.log(photo, comments);
+  // console.log(photo, comments);
 
   return (
     <div className={styles.photo}>

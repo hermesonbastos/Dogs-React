@@ -12,7 +12,6 @@ export const UserStorage = ({ children }) => {
   const navigate = useNavigate();
 
   const userLogout = React.useCallback(async function () {
-    // console.log("logout");
     setData(null);
     setError(null);
     setLoading(false);

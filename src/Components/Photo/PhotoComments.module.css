@@ -9,6 +9,10 @@
   line-height: 1.2;
 }
 
+.single.comments {
+  padding: 0px;
+}
+
 .comments::-webkit-scrollbar {
   background: transparent;
   width: 5px;

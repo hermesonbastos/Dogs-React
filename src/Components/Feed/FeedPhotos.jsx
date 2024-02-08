@@ -7,7 +7,8 @@ import { PHOTOS_GET } from "../../api";
 import styles from "./FeedPhotos.module.css";
 
 const FeedPhotos = ({ page, user, setModalPhoto, setInfinite }) => {
-  const total = 3;
+  
+  const total = 8;
   const { data, loading, error, request } = useFetch();
 
   React.useEffect(() => {
